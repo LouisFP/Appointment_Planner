@@ -13,9 +13,13 @@ back card descriptions respectively.
 
 + Fork the repository
 + Download dependencies with:
-> ` npm install `
+```bash
+ npm install
+ ```
 + Then initiate a development server with:
-> ` npm start `
+```bash 
+npm start
+```
 
 ## Skills utilised
 
